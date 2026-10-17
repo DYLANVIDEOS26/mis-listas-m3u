@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/HK0UOso.png" group-title="Perú", (001) Willax Peru
 http://190.93.224.42/WILLAX/index.m3u8
