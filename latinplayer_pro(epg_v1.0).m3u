@@ -249,9 +249,6 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 #EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/XttoVds.png" group-title="Cine y Series", C&S | A&E
 http://45.186.254.75:8000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://images.pluto.tv/channels/699f405a0c8827936bd287bf/colorLogoPNG_1774560648913.png" group-title="Cine y Series", Cine | Cinepolis Channel
-https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
-
 #EXTINF:-1 tvg-id="534" tvg-logo="https://i.imgur.com/UfsQjYX.png" group-title="Cine y Series", Cine | FMH Family
 http://45.186.254.75:8000/play/a07l/index.m3u8
 
@@ -381,16 +378,16 @@ http://45.186.254.75:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/50ZzrG5.png" group-title="Cultural", E | Food Network
 http://45.186.254.75:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias", NT | CNN Spanish
-https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png" group-title="Noticias", NT | CNN International
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://i.imgur.com/W0ejlM3.png" group-title="Noticias", NT | CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
-#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Noticias", NT | France 24 Spanish
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://i.imgur.com/XTmxd1m.png" group-title="Noticias", NT | CNN Spanish
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="Noticias", NT | France 24 Spanish
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="560" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="Noticias", NT | RT Spanish
+#EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="Noticias", NT | RT Spanish
 http://15.204.246.24:8080/RTHD/index.m3u8
 
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://i.imgur.com/muY1V4O.png" group-title="De país al mundo", INT | Caracol Internacional
@@ -417,16 +414,13 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://i.imgur.com/ZFnZHwW.png" group-title="Variados", V | Las Estrellas
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Variados", V | TL Novelas
-http://167.249.23.102:8000/play/a0g8/index.m3u8
-
 #EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://i.imgur.com/DPXwCC4.png" group-title="Religión", R | Enlace
 http://138.121.15.230:9002/ENLACE/index.m3u8
 
 #EXTINF:-1 tvg-id="ewtn.pe" tvg-logo="https://i.imgur.com/7zO8XZ0.png" group-title="Religión", R | EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Musical", MU | MTV
+#EXTINF:-1 tvg-id="mtv.cl" tvg-logo="https://i.imgur.com/NVIgyDx.png" group-title="Musical", MU | MTV
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Musical", MU | HTV
@@ -434,12 +428,6 @@ http://45.171.64.30:6060/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/0FZi4fY.png" group-title="Musical", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="665" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" group-title="Musical", MU | TikTok Radio
-https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
-
-#EXTINF:-1 tvg-id="665" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Musical", MU | MTV Flow Latino
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
 #EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://i.imgur.com/nsVOVE9.jpeg" group-title="Radios Perú", PE | RPP (89.7 FM)
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
