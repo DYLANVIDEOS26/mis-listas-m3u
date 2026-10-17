@@ -210,7 +210,7 @@ http://157.100.248.242:8080/RTSHD/index.m3u8
 #EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador", EC | TC Television
 http://177.234.218.66:8084/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador", EC | Teleamazonas
+#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="Ecuador", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/D1k3yWg.png" group-title="Deportes Perú", DEP | L1 Peru
@@ -441,13 +441,13 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1 tvg-id="665" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Musical", MU | MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
-#EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://yt3.googleusercontent.com/Yd3oyMv37d7AqK0NQstYS3ZhE3mCxGS4dw8WohWLybXYQimIkSnQBCQkDMG2YjKnr4NUeptTpA=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | RPP (89.7 FM)
+#EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://i.imgur.com/nsVOVE9.jpeg" group-title="Radios Perú", PE | RPP (89.7 FM)
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
 
-#EXTINF:-1 tvg-id="PE | Radio Magica (88.3 FM)" tvg-logo="https://yt3.googleusercontent.com/BKL2k5saMVp3Ez1EdSv2TC3jht-mt2JrNWuVWeR-UN6o7EAGYnQU6VB4cdXtVr_ilRwoGTlFg4M=s160-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Magica (88.3 FM)
+#EXTINF:-1 tvg-id="PE | Radio Magica (88.3 FM)" tvg-logo="https://i.imgur.com/3hN5mrd.jpeg" group-title="Radios Perú", PE | Radio Magica (88.3 FM)
 https://mdstrm.com/audio/6839e28eb3fdc597ac2e2e43/live.m3u8
 
-#EXTINF:-1 tvg-id="PE | La Zona (90.5 FM)" tvg-logo="https://station-images-prod.radio-assets.com/300/lazona.png?version=b80981666c2b40148a0830295532b7d60ba4f297" group-title="Radios Perú", PE | La Zona (90.5 FM)
+#EXTINF:-1 tvg-id="PE | La Zona (90.5 FM)" tvg-logo="https://i.imgur.com/p0xZ3sX.png" group-title="Radios Perú", PE | La Zona (90.5 FM)
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 
 #EXTINF:-1 tvg-id="PE | Radio Disney (94.3 FM)" tvg-logo="https://play-lh.googleusercontent.com/66CoY3Z9F-CCrlsEDct7QWSA2GMdhAWGVkBP7RVQSBkalbdRtv3q3Guby-a2KLzchatp1KJ2_eksAkEpkR6DgA" group-title="Radios Perú", PE | Radio Disney (94.3 FM)
@@ -456,10 +456,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.
 #EXTINF:-1 tvg-id="PE | Radio Exitosa (95.5 FM)" tvg-logo="https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg" group-title="Radios Perú", PE | Radio Exitosa (95.5 FM)
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 
-#EXTINF:-1 tvg-id="PE | Radio Moda (97.3 FM)" tvg-logo="https://yt3.googleusercontent.com/x02jZY5mPi-qbxnKhj_GojAflhR-lSSd7qGU_DuBd1OymD5sAhvf1K9w8kzHXmIyknVzM7Km3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Moda (97.3 FM)
+#EXTINF:-1 tvg-id="PE | Radio Moda (97.3 FM)" tvg-logo="https://i.imgur.com/u6oOlqo.jpeg" group-title="Radios Perú", PE | Radio Moda (97.3 FM)
 https://mdstrm.com/audio/6839e1c82cc4c480fcd318dd/live.m3u8
 
-#EXTINF:-1 tvg-id="PE | Radio Oxigeno (102.1 FM)" tvg-logo="https://yt3.googleusercontent.com/ViYLTKOa3swJOsS0lC1jSw47WXVFbrhra64bMB_qd2WC0raiDGVzGo93kyvpkKtL7r2wsatL=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Oxigeno (102.1 FM)
+#EXTINF:-1 tvg-id="PE | Radio Oxigeno (102.1 FM)" tvg-logo="https://i.imgur.com/0W4hXl5.jpeg" group-title="Radios Perú", PE | Radio Oxigeno (102.1 FM)
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
 #EXTINF:-1 tvg-id="FreeTV Banda" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvbanda_400x200_lg.png" group-title="Free TV Latinoamérica", FreeTV Banda
