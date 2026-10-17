@@ -13,10 +13,10 @@ http://190.93.224.42/EXITOSA/index.m3u8
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/LjBvX9q.png" group-title="Perú", (005) Panamericana Peru
-http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.imgur.com/ZNFn81f.png" group-title="Perú", (006) TV Peru Noticias
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.imgur.com/ZNFn81f.png" group-title="Perú", (006) TV Peru Noticias [GEO]
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVPERU73HD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/XhpXCjZ.png" group-title="Perú", (007) TV Peru
 http://190.93.224.42/TV-PERU/index.m3u8
@@ -27,10 +27,10 @@ http://190.93.224.42/ATV-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Andina-de-Television-Logo-2025.png" group-title="Perú", (009) ATV Peru
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/L0M7BtO.png" group-title="Perú", (010) Justicia TV Peru
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/L0M7BtO.png" group-title="Perú", (010) Justicia TV Peru (No funciona VLC)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/TbXwsX5.png" group-title="Perú", (011) Viva TV Peru
+#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/TbXwsX5.png" group-title="Perú", (011) Viva TV Peru (No funciona VLC)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/SW5x2xT.png" group-title="Perú", (012) La Tele Peru
@@ -440,6 +440,27 @@ https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Musical", MU | MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+
+#EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://yt3.googleusercontent.com/Yd3oyMv37d7AqK0NQstYS3ZhE3mCxGS4dw8WohWLybXYQimIkSnQBCQkDMG2YjKnr4NUeptTpA=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | RPP (89.7 FM)
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
+
+#EXTINF:-1 tvg-id="PE | Radio Magica (88.3 FM)" tvg-logo="https://yt3.googleusercontent.com/BKL2k5saMVp3Ez1EdSv2TC3jht-mt2JrNWuVWeR-UN6o7EAGYnQU6VB4cdXtVr_ilRwoGTlFg4M=s160-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Magica (88.3 FM)
+https://mdstrm.com/audio/6839e28eb3fdc597ac2e2e43/live.m3u8
+
+#EXTINF:-1 tvg-id="PE | La Zona (90.5 FM)" tvg-logo="https://station-images-prod.radio-assets.com/300/lazona.png?version=b80981666c2b40148a0830295532b7d60ba4f297" group-title="Radios Perú", PE | La Zona (90.5 FM)
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+
+#EXTINF:-1 tvg-id="PE | Radio Disney (94.3 FM)" tvg-logo="https://play-lh.googleusercontent.com/66CoY3Z9F-CCrlsEDct7QWSA2GMdhAWGVkBP7RVQSBkalbdRtv3q3Guby-a2KLzchatp1KJ2_eksAkEpkR6DgA" group-title="Radios Perú", PE | Radio Disney (94.3 FM)
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.mp3
+
+#EXTINF:-1 tvg-id="PE | Radio Exitosa (95.5 FM)" tvg-logo="https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg" group-title="Radios Perú", PE | Radio Exitosa (95.5 FM)
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+
+#EXTINF:-1 tvg-id="PE | Radio Moda (97.3 FM)" tvg-logo="https://yt3.googleusercontent.com/x02jZY5mPi-qbxnKhj_GojAflhR-lSSd7qGU_DuBd1OymD5sAhvf1K9w8kzHXmIyknVzM7Km3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Moda (97.3 FM)
+https://mdstrm.com/audio/6839e1c82cc4c480fcd318dd/live.m3u8
+
+#EXTINF:-1 tvg-id="PE | Radio Oxigeno (102.1 FM)" tvg-logo="https://yt3.googleusercontent.com/ViYLTKOa3swJOsS0lC1jSw47WXVFbrhra64bMB_qd2WC0raiDGVzGo93kyvpkKtL7r2wsatL=s900-c-k-c0x00ffffff-no-rj" group-title="Radios Perú", PE | Radio Oxigeno (102.1 FM)
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
 #EXTINF:-1 tvg-id="FreeTV Banda" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvbanda_400x200_lg.png" group-title="Free TV Latinoamérica", FreeTV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
