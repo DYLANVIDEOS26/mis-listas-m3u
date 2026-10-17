@@ -45,17 +45,17 @@ http://187.102.210.46/USMP/index.m3u8
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/fM7VV0x.png" group-title="Perú", (015) Canal IPe Peru
 http://187.102.210.46/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://i.imgur.com/tE6rG2X.png" group-title="Perú", (016) Sol TV Peru
-https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/ZtfrRPA.png" group-title="Perú", (017) Juntos Peru
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/ZtfrRPA.png" group-title="Perú", (016) Juntos Peru
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/XhdwYP1.png" group-title="Perú", (018) PBO Peru
+#EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/XhdwYP1.png" group-title="Perú", (017) PBO Peru
 http://190.93.224.42/PBO/index.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/nr2FG0N.png" group-title="Perú", (019) La Tremenda Peru
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/nr2FG0N.png" group-title="Perú", (018) La Tremenda Peru
 http://187.102.210.46/KARIBENA/index.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/RoQtitE.png" group-title="Perú", (019) Karibeña Peru
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/MzmkFqq.png" group-title="Perú", (020) Ovacion Peru
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -63,8 +63,14 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(021) RPP Peru" tvg-logo="https://i.imgur.com/HSt2kac.png" group-title="Perú", (021) RPP Peru
 http://190.93.224.42/RPP/index.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/YXLWnst.png" group-title="Perú", (022) Nativa TV Peru
+#EXTINF:-1 tvg-id="(022) Nativa TV Peru(022) Nativa TV Peru" tvg-logo="https://i.imgur.com/YXLWnst.png" group-title="Perú", (022) Nativa TV Peru
 http://187.102.210.46/NATIVATV/index.m3u8
+
+#EXTINF:-1 tvg-id="(023) Trivu Peru" tvg-logo="https://i.imgur.com/4ETf1ji.png" group-title="Perú", (023) Trivu Peru
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(024) TVLibertad Peru" tvg-logo="https://i.imgur.com/9JtekIB.png" group-title="Perú", (024) TVLibertad Peru
+https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica.png" group-title="Argentina", ARG | America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -72,7 +78,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telefe.png" group-title="Argentina", ARG | Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
 
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="Argentina", ARG | El Trece
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_trece_1.png" group-title="Argentina", ARG | El Trece
 http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_103.png" group-title="Argentina", ARG | Canal 26
@@ -174,21 +180,6 @@ http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="Bolivia", BO | Unitel
 http://190.181.61.93:8000/play/1909/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", EC | Ecuador TV
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-
-#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", EC | Ecuavisa
-http://45.224.97.181:9999/Ecuavisa/index.m3u8
-
-#EXTINF:-1 tvg-id="EC | RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", EC | RTS
-http://157.100.248.242:8080/RTSHD/index.m3u8
-
-#EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador", EC | TC Television
-http://177.234.218.66:8084/play/a089/index.m3u8
-
-#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador", EC | Teleamazonas
-http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
-
 #EXTINF:-1 tvg-id="la-tele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay", PY | La Tele
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
@@ -206,6 +197,21 @@ https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
 
 #EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="Paraguay", PY | SNT
 https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8
+
+#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", EC | Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+
+#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", EC | Ecuavisa
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", EC | RTS
+http://157.100.248.242:8080/RTSHD/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador", EC | TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador", EC | Teleamazonas
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/D1k3yWg.png" group-title="Deportes Perú", DEP | L1 Peru
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
