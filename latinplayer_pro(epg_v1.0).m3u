@@ -27,11 +27,11 @@ http://190.93.224.42/ATV-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Andina-de-Television-Logo-2025.png" group-title="Perú", (009) ATV Peru
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/L0M7BtO.png" group-title="Perú", (010) Justicia TV Peru (No funciona VLC)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/L0M7BtO.png" group-title="Perú", (010) Justicia TV Peru
+http://38.87.224.20:2220/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/TbXwsX5.png" group-title="Perú", (011) Viva TV Peru (No funciona VLC)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/TbXwsX5.png" group-title="Perú", (011) Viva TV Peru
+http://38.87.224.20:2220/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/SW5x2xT.png" group-title="Perú", (012) La Tele Peru
 http://190.93.224.42/LA-TELE/index.m3u8
@@ -105,35 +105,35 @@ http://190.128.214.97:64333/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ARG | El Nueve" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", ARG | El Nueve
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
-#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/24-horas.png" group-title="Chile", CL | 24 Horas HD
-http://181.78.88.113:9800/play/a09o/index.m3u8
-
-#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/canal-13.png" group-title="Chile", CL | Canal 13 HD
-http://181.78.88.113:9800/play/a067/index.m3u8
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/chilevision.png" group-title="Chile", CL | Chilevision HD
-http://181.78.88.113:9800/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="Chile", CL | La Red HD
-http://181.78.88.113:9800/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega.png" group-title="Chile", CL | Mega HD
+http://181.78.88.113:9800/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="584" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega-2.png" group-title="Chile", CL | Mega 2
 http://181.78.88.113:9800/play/a0ai/index.m3u8
 
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega.png" group-title="Chile", CL | Mega HD
-http://181.78.88.113:9800/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/chilevision.png" group-title="Chile", CL | Chilevision HD
+http://181.78.88.113:9800/play/a05h/index.m3u8
 
-#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/ntv.png" group-title="Chile", CL | NTV HD
-http://181.78.88.113:9800/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/canal-13.png" group-title="Chile", CL | Canal 13 HD
+http://181.78.88.113:9800/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-id="549" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/t13.png" group-title="Chile", CL | T13 En Vivo HD
-http://181.78.88.113:9800/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tvn.png" group-title="Chile", CL | TVN HD
+http://45.162.193.35:80/TVN/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" group-title="Chile", CL | TV+ HD
 http://181.78.88.113:9800/play/a09m/index.m3u8
 
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tvn.png" group-title="Chile", CL | TVN HD
-http://45.162.193.35:80/TVN/index.m3u8
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="Chile", CL | La Red HD
+http://181.78.88.113:9800/play/a09n/index.m3u8
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/24-horas.png" group-title="Chile", CL | 24 Horas HD
+http://181.78.88.113:9800/play/a09o/index.m3u8
+
+#EXTINF:-1 tvg-id="549" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/t13.png" group-title="Chile", CL | T13 En Vivo HD
+http://181.78.88.113:9800/play/a0aj/index.m3u8
+
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/ntv.png" group-title="Chile", CL | NTV HD
+http://181.78.88.113:9800/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-id="CO | Canal 1" tvg-logo="http://wispcinema2.sytes.net:25461/images/18f64422b27107c63294ee443b21f193.png" group-title="Colombia", CO | Canal 1
 http://wispcinema.sytes.net:25461/obedchile/18112022/6767.m3u8
@@ -322,7 +322,10 @@ https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/n3bQIw8.png" group-title="Kids", K | Nickelodeon
-http://190.93.224.42/NICK/index.m3u8
+http://38.87.224.20:2220/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://i.imgur.com/YEvDO9o.png" group-title="Kids", K | Nick Jr.
+http://38.87.224.20:2220/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="Kids", Kids | Baby TV Latino
 http://45.186.254.75:8000/play/a0gu/index.m3u8
@@ -385,10 +388,10 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="Noticias", NT | France 24 Spanish
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="Noticias", NT | RT Spanish
-http://15.204.246.24:8080/RTHD/index.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://i.imgur.com/muY1V4O.png" group-title="De país al mundo", INT | Caracol Internacional
 http://167.249.23.102:8000/play/a0ax/index.m3u8
@@ -421,7 +424,7 @@ http://138.121.15.230:9002/ENLACE/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="https://i.imgur.com/NVIgyDx.png" group-title="Musical", MU | MTV
-http://15.204.246.24:8080/MTVHD/index.m3u8
+http://190.60.46.228:8888/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Musical", MU | HTV
 http://45.171.64.30:6060/play/a012/index.m3u8
@@ -429,11 +432,11 @@ http://45.171.64.30:6060/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/0FZi4fY.png" group-title="Musical", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://i.imgur.com/nsVOVE9.jpeg" group-title="Radios Perú", PE | RPP (89.7 FM)
-https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
-
 #EXTINF:-1 tvg-id="PE | Radio Magica (88.3 FM)" tvg-logo="https://i.imgur.com/3hN5mrd.jpeg" group-title="Radios Perú", PE | Radio Magica (88.3 FM)
 https://mdstrm.com/audio/6839e28eb3fdc597ac2e2e43/live.m3u8
+
+#EXTINF:-1 tvg-id="PE | RPP (89.7 FM)" tvg-logo="https://i.imgur.com/nsVOVE9.jpeg" group-title="Radios Perú", PE | RPP (89.7 FM)
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
 
 #EXTINF:-1 tvg-id="PE | La Zona (90.5 FM)" tvg-logo="https://i.imgur.com/p0xZ3sX.png" group-title="Radios Perú", PE | La Zona (90.5 FM)
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
