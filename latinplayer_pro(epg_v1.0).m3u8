@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/zRIAcL4.png" group-title="Deportes Int.", DEP | DSports
+http://45.186.254.75:8000/play/a0en/index.m3u8
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/2BpsAHv.png" group-title="Deportes Int.", DEP | DSports 2
+http://38.190.100.202:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/8FiGMRL.png" group-title="Deportes Int.", DEP | DSports+
+http://38.190.100.202:8000/play/a09q/index.m3u8
+
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/HK0UOso.png" group-title="Perú", (001) Willax Peru
 http://190.93.224.42/WILLAX/index.m3u8
 
@@ -51,26 +60,32 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/XhdwYP1.png" group-title="Perú", (017) PBO Peru
 http://190.93.224.42/PBO/index.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/nr2FG0N.png" group-title="Perú", (018) La Tremenda Peru
-http://187.102.210.46/KARIBENA/index.m3u8
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/ttBAsdW.png" group-title="Perú", (018) Canal N
+http://45.186.254.75:8000/play/a09i/index.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/RoQtitE.png" group-title="Perú", (019) Karibeña Peru
-https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://i.imgur.com/PixypbD.png" group-title="Perú", (019) Movistar Plus
+http://45.186.254.75:8000/play/a0et/index.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/MzmkFqq.png" group-title="Perú", (020) Ovacion Peru
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(021) RPP Peru" tvg-logo="https://i.imgur.com/HSt2kac.png" group-title="Perú", (021) RPP Peru
-http://190.93.224.42/RPP/index.m3u8
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/nr2FG0N.png" group-title="Perú", (021) La Tremenda Peru
+http://187.102.210.46/KARIBENA/index.m3u8
 
-#EXTINF:-1 tvg-id="(022) Nativa TV Peru(022) Nativa TV Peru" tvg-logo="https://i.imgur.com/YXLWnst.png" group-title="Perú", (022) Nativa TV Peru
-http://187.102.210.46/NATIVATV/index.m3u8
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/RoQtitE.png" group-title="Perú", (022) Karibeña Peru
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="(023) Trivu Peru" tvg-logo="https://i.imgur.com/4ETf1ji.png" group-title="Perú", (023) Trivu Peru
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(024) TVLibertad Peru" tvg-logo="https://i.imgur.com/9JtekIB.png" group-title="Perú", (024) TVLibertad Peru
 https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(025) RPP Peru" tvg-logo="https://i.imgur.com/HSt2kac.png" group-title="Perú", (025) RPP Peru
+http://190.93.224.42/RPP/index.m3u8
+
+#EXTINF:-1 tvg-id="(026) Nativa TV Peru" tvg-logo="https://i.imgur.com/YXLWnst.png" group-title="Perú", (026) Nativa TV Peru
+http://187.102.210.46/NATIVATV/index.m3u8
 
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica.png" group-title="Argentina", ARG | America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -213,6 +228,9 @@ http://177.234.218.66:8084/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="Ecuador", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://i.imgur.com/2rqfRI0.png" group-title="Deportes Perú", DEP | Movistar Deportes Peru
+http://45.186.254.75:8000/play/a0es/index.m3u8
+
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/D1k3yWg.png" group-title="Deportes Perú", DEP | L1 Peru
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
@@ -246,59 +264,71 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/8319.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes Colombia", CO | Win+ Futbol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 
-#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/XttoVds.png" group-title="Cine y Series", C&S | A&E
-http://45.186.254.75:8000/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="534" tvg-logo="https://i.imgur.com/UfsQjYX.png" group-title="Cine y Series", Cine | FMH Family
-http://45.186.254.75:8000/play/a07l/index.m3u8
-
-#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/bfyXXhN.png" group-title="Cine y Series", Cine | FMH Movies
-http://45.186.254.75:8000/play/a07j/index.m3u8
-
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.imgur.com/RatBSJ5.png" group-title="Cine y Series", C&S | AMC
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.imgur.com/RatBSJ5.png" group-title="Cine y Series", C | AMC
 https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://i.imgur.com/wEzmoaw.png" group-title="Cine y Series", C&S | AMC Series
-http://45.186.254.75:8000/play/a0d8/index.m3u8
-
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="https://i.imgur.com/Ce2DzRp.png" group-title="Cine y Series", C&S | Atreseries Int.
-http://168.196.127.137:6001/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-id="cinecanal.pe" tvg-logo="https://i.imgur.com/2AUdz7m.png" group-title="Cine y Series", C&S | Cinecanal
+#EXTINF:-1 tvg-id="cinecanal.pe" tvg-logo="https://i.imgur.com/2AUdz7m.png" group-title="Cine y Series", C | Cinecanal
 https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://i.imgur.com/xJGwhfy.png" group-title="Cine y Series", C&S | DHE
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="https://i.imgur.com/3PYUNri.png" group-title="Cine y Series", C | Cinemax
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://i.imgur.com/xJGwhfy.png" group-title="Cine y Series", C | DHE
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/Re9yxtk.png" group-title="Cine y Series", C&S | FX
+#EXTINF:-1 tvg-id="534" tvg-logo="https://i.imgur.com/UfsQjYX.png" group-title="Cine y Series", C | FMH Family
+http://45.186.254.75:8000/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-id="504" tvg-logo="https://i.imgur.com/bfyXXhN.png" group-title="Cine y Series", C | FMH Movies
+http://45.186.254.75:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/Re9yxtk.png" group-title="Cine y Series", C | FX
 https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://i.imgur.com/vyLxdEC.png" group-title="Cine y Series", C&S | Golden Edge 
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://i.imgur.com/rg45WAy.png" group-title="Cine y Series", C | Golden
+http://138.121.15.230:9002/GOLDEN/index.m3u8
+
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://i.imgur.com/vyLxdEC.png" group-title="Cine y Series", C | Golden Edge 
 https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://i.imgur.com/NUHH8Nw.png" group-title="Cine y Series", C&S | Sony Channel
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.imgur.com/ksn0Zn6.png" group-title="Cine y Series", C | Golden Plus
+http://45.5.118.152:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://i.imgur.com/NUHH8Nw.png" group-title="Cine y Series", C | Sony Channel
 http://45.186.254.75:8000/play/a0b7/index.m3u8
 
-#EXTINF:-1 tvg-id="518dtv.ar" tvg-logo="https://i.imgur.com/5dBMQLi.png" group-title="Cine y Series", C&S | Space
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-logo="https://i.imgur.com/5dBMQLi.png" group-title="Cine y Series", C | Space
 https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="108mvstr.pe" tvg-logo="https://i.imgur.com/PQToYu8.png" group-title="Cine y Series", C&S | Star Channel
+#EXTINF:-1 tvg-id="108mvstr.pe" tvg-logo="https://i.imgur.com/PQToYu8.png" group-title="Cine y Series", C | Star Channel
 https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="https://i.imgur.com/kxj6pgz.png" group-title="Cine y Series", C&S | TCM
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="https://i.imgur.com/kxj6pgz.png" group-title="Cine y Series", C | TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/5Aup4AJ.png" group-title="Cine y Series", C&S | TNT 
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/5Aup4AJ.png" group-title="Cine y Series", C | TNT 
 https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/WRmZtr2.png" group-title="Cine y Series", C&S | TNT Series
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://i.imgur.com/ok91CoX.png" group-title="Cine y Series", C | Warner Channel
+http://45.186.254.75:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="634" tvg-logo="https://i.imgur.com/XttoVds.png" group-title="Cine y Series", S | A&E
+http://45.186.254.75:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://i.imgur.com/wEzmoaw.png" group-title="Cine y Series", S | AMC Series
+http://45.186.254.75:8000/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="https://i.imgur.com/Ce2DzRp.png" group-title="Cine y Series", S | Atreseries Int.
+http://168.196.127.137:6001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/4w4molv.png" group-title="Cine y Series", S | AXN
+http://138.121.15.230:9002/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/WRmZtr2.png" group-title="Cine y Series", S | TNT Series
 https://cablered.iptvperu.tv:1936/cablered/tntseries_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="218dtv.co" tvg-logo="https://i.imgur.com/1HZuNJ6.png" group-title="Cine y Series", C&S | Universal TV
+#EXTINF:-1 tvg-id="218dtv.co" tvg-logo="https://i.imgur.com/1HZuNJ6.png" group-title="Cine y Series", S | Universal TV
 https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://i.imgur.com/ok91CoX.png" group-title="Cine y Series", C&S | Warner Channel
-http://45.186.254.75:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://i.imgur.com/e2jhQ6d.png" group-title="Novelas", NOV | Pasiones
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8
@@ -330,11 +360,11 @@ http://38.87.224.20:2220/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="Kids", Kids | Baby TV Latino
 http://45.186.254.75:8000/play/a0gu/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="Kids", K | Tooncast Latino
-https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
-
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/m8gEHtQ.png" group-title="Kids", K | Plim Plim
 https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="Kids", K | Tooncast Latino
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" group-title="Kids", K | El Reino Infantil
 https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
@@ -424,10 +454,10 @@ http://138.121.15.230:9002/ENLACE/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="https://i.imgur.com/NVIgyDx.png" group-title="Musical", MU | MTV
-http://190.60.46.228:8888/play/a01c/index.m3u8
+http://45.186.254.75:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Musical", MU | HTV
-http://45.171.64.30:6060/play/a012/index.m3u8
+http://45.186.254.75:8000/play/a0a5/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/0FZi4fY.png" group-title="Musical", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
