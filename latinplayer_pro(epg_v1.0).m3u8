@@ -219,7 +219,7 @@ http://177.234.218.66:8084/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="Ecuador", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://avmsadtxkcjtllecbxkv.supabase.co/storage/v1/object/sign/channel-logos/c3dab472-5f97-4dd7-9b18-51988c3f71d6/908ddc2b-cb7e-4b7f-b4dc-b6b0926642f1.png?token=eyJraWQiOiI0MjNjNWZiNC05NmU3LTQ4MzgtODM0MS0xNDBjMTg1YmIxZTkiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJjaGFubmVsLWxvZ29zL2MzZGFiNDcyLTVmOTctNGRkNy05YjE4LTUxOTg4YzNmNzFkNi85MDhkZGMyYi1jYjdlLTRiN2YtYjRkYy1iNmIwOTI2NjQyZjEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5MTc0MzQ3NSwiZXhwIjoyMTA3MTAzNDc1fQ.Hcit5SFhimPUEPs8gnbuiXR7yQqpvrevoQPKFmUkVMD98ORyZuBBYeFJPXVX-I0_mDzjde5bcdngxRzMyOK-mg" group-title="¡Exclusivos!", EXC | QUE Musica TV
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/omx1BRO.png" group-title="¡Exclusivos!", EXC | QUE Musica TV
 https://avmsadtxkcjtllecbxkv.supabase.co/storage/v1/object/sign/channel-videos/c3dab472-5f97-4dd7-9b18-51988c3f71d6/a30f66e5-a3c5-4bc6-830b-09669fd8a007.mp4?token=eyJraWQiOiI0MjNjNWZiNC05NmU3LTQ4MzgtODM0MS0xNDBjMTg1YmIxZTkiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJjaGFubmVsLXZpZGVvcy9jM2RhYjQ3Mi01Zjk3LTRkZDctOWIxOC01MTk4OGMzZjcxZDYvYTMwZjY2ZTUtYTNjNS00YmM2LTgzMGItMDk2NjlmZDhhMDA3Lm1wNCIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTIzODU5MDEsImV4cCI6MjEwNzc0NTkwMX0.c7RJ1br1nLgw52wocovfhjljJx_RN8crwtDnVTr797lHlRadmF1RcUIKtbeDN2KHbOMA3WizIOnDHKVX7bFQ2w
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://i.imgur.com/2rqfRI0.png" group-title="Deportes Perú", DEP | Movistar Deportes Peru
@@ -264,13 +264,13 @@ http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="Deportes Argentina", DEP | TyC Sports Argentina
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/zRIAcL4.png" group-title="Deportes Int.", DEP | DSports
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="Deportes Int.", DEP | DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/2BpsAHv.png" group-title="Deportes Int.", DEP | DSports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/skQYFKo.png" group-title="Deportes Int.", DEP | DSports 2
 http://38.190.100.202:8000/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/8FiGMRL.png" group-title="Deportes Int.", DEP | DSports+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/z5CmWnZ.png" group-title="Deportes Int.", DEP | DSports+
 http://38.190.100.202:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/AQ1kRNp.png" group-title="Deportes Int.", DEP | Golf Channel
