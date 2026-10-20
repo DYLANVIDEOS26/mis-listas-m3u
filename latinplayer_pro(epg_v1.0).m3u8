@@ -85,31 +85,28 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_trece_1.png" group-title="Argentina", ARG | El Trece
-http://15.204.246.24:8080/eltreceHD/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_103.png" group-title="Argentina", ARG | Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/2/a24.png" group-title="Argentina", ARG | A24
-http://138.59.227.20:8000/play/a05u/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/q/u/quiero_m_sica.png" group-title="Argentina", ARG | Quiero Musica TV
 http://158.172.155.130:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/zS9wHie.png" group-title="Argentina", ARG | Paka Paka
+#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/KIzMIGg.png" group-title="Argentina", ARG | Paka Paka
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/n/tn_hd.png" group-title="Argentina", ARG | TN (Todo Noticias)
-http://158.172.155.130:8000/play/a0dp/index.m3u8
+http://45.188.229.33:8000/play/a1a3/index.m3u8
 
-#EXTINF:-1 tvg-id="238dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/v/o/volver.png" group-title="Argentina", ARG | Volver
-http://138.121.113.175:8000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-id="ARG | TV Publica" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_p_blica.png" group-title="Argentina", ARG | TV Publica
-http://190.128.214.97:64333/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ARG | Canal 7 Siete" tvg-logo="https://i.imgur.com/rE7npat.png" group-title="Argentina", ARG | Canal 7 Siete
+http://45.188.229.33:8000/play/a1a2/index.m3u8
 
 #EXTINF:-1 tvg-id="ARG | El Nueve" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", ARG | El Nueve
-http://15.204.246.24:8080/elnueveHD/index.m3u8
+http://45.188.229.33:8000/play/a1aw/index.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega.png" group-title="Chile", CL | Mega HD
 http://181.78.88.113:9800/play/a066/index.m3u8
