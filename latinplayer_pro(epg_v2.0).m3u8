@@ -118,19 +118,16 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/q/u/quiero_m_sica.png" group-title="Argentina", ARG | Quiero Musica TV
-http://158.172.155.130:8000/play/a00a/index.m3u8
+http://138.59.227.20:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="PakaPaka.ar" tvg-logo="https://i.imgur.com/KIzMIGg.png" group-title="Argentina", ARG | Paka Paka
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/n/tn_hd.png" group-title="Argentina", ARG | TN (Todo Noticias)
-http://45.188.229.33:8000/play/a1a3/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/rE7npat.png" group-title="Argentina", ARG | Canal 7 Siete
-http://45.188.229.33:8000/play/a1a2/index.m3u8
+http://138.59.227.20:8000/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", ARG | El Nueve
-http://45.188.229.33:8000/play/a1aw/index.m3u8
+http://138.59.227.20:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="LaTele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay", PY | La Tele
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
@@ -306,9 +303,6 @@ http://45.186.254.75:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="AmcSeries.pe" tvg-logo="https://i.imgur.com/wEzmoaw.png" group-title="Cine y Series", S | AMC Series
 http://45.186.254.75:8000/play/a0d8/index.m3u8
 
-#EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://i.imgur.com/Ce2DzRp.png" group-title="Cine y Series", S | Atreseries Int.
-http://168.196.127.137:6001/play/a03s/index.m3u8
-
 #EXTINF:-1 tvg-id="Axn.pe" tvg-logo="https://i.imgur.com/4w4molv.png" group-title="Cine y Series", S | AXN
 http://138.121.15.230:9002/AXN/index.m3u8
 
@@ -396,9 +390,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="Noticias", NT | RT Spanish
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Antena3.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Variados", V | Antena 3 Int.
-http://168.196.127.137:6001/play/a03m/index.m3u8
-
 #EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-logo="https://i.imgur.com/ZFnZHwW.png" group-title="Variados", V | Las Estrellas
 http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 
@@ -419,6 +410,30 @@ http://45.186.254.75:8000/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Música", MU | HTV
 http://45.186.254.75:8000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Atresplayer Int.", A3P | Antena 3 Int.
+http://168.196.127.137:6001/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://i.imgur.com/Ce2DzRp.png" group-title="Atresplayer Int.", A3P | Atreseries Int.
+http://168.196.127.137:6001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Atresplayer Int.", A3P | Hola TV
+http://38.190.100.202:8000/play/a0al/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://i.imgur.com/mJHyEo7.png" group-title="Universal+ Latinoamérica", U+ | CINEMA
+http://38.190.100.202:8000/play/a04z/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalComedy.uy" tvg-logo="https://i.imgur.com/jbDqkKs.png" group-title="Universal+ Latinoamérica", U+ | COMEDY
+http://38.190.100.202:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.uy" tvg-logo="https://i.imgur.com/LZcA7hU.png" group-title="Universal+ Latinoamérica", U+ | CRIME
+http://38.190.100.202:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.uy" tvg-logo="https://i.imgur.com/kgD2QDH.png" group-title="Universal+ Latinoamérica", U+ | PREMIERE
+http://38.190.100.202:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalReality.uy" tvg-logo="https://i.imgur.com/9rM1dOR.png" group-title="Universal+ Latinoamérica", U+ | REALITY
+http://38.190.100.202:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Banda" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvbanda_400x200_lg.png" group-title="Free TV Latinoamérica", FreeTV Banda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
