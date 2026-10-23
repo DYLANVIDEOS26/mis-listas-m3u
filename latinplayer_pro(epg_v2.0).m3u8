@@ -192,6 +192,9 @@ http://177.234.218.66:8084/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="Ecuador", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="Bolivia", BO | Unitel
+http://190.181.61.93:8000/play/1909/index.m3u8
+
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia", BO | Bolivia TV
 http://190.181.61.93:8000/play/a001/index.m3u8
 
@@ -206,9 +209,6 @@ http://190.181.61.93:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="BO | RTP" tvg-logo="https://i.imgur.com/1Clkuyv.png" group-title="Bolivia", BO | RTP
 http://190.181.61.93:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="Bolivia", BO | Unitel
-http://190.181.61.93:8000/play/1909/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn.pe" tvg-logo="https://i.imgur.com/QLrlCHi.png" group-title="Deportes Perú", DEP | ESPN Peru
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
@@ -249,7 +249,7 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes Colombia", CO | Win+ Futbol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 
-#EXTINF:-1 tvg-id="DSportsArgentina.uy" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="Deportes Int.", DEP | DSports
+#EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="Deportes Int.", DEP | DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://i.imgur.com/skQYFKo.png" group-title="Deportes Int.", DEP | DSports 2
@@ -263,12 +263,6 @@ http://72.1.184.5:8089/play/a0cw/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png" group-title="Deportes Int.", DEP | TyC Sports Int.
 http://45.186.254.75:8000/play/a08n/index.m3u8
-
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Van9HiJ.png" group-title="Deportes Int.", DEP | TyC Sports FAN
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/SBnysAy.png" group-title="Deportes Int.", DEP | Top Barça
-https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
 
 #EXTINF:-1 tvg-id="Amc.pe" tvg-logo="https://i.imgur.com/RatBSJ5.png" group-title="Cine y Series", C | AMC
 https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
@@ -345,17 +339,14 @@ http://38.87.224.20:2220/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="https://i.imgur.com/YEvDO9o.png" group-title="Kids", K | Nick Jr.
 http://38.87.224.20:2220/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="BabyTV.pe" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="Kids", Kids | Baby TV Latino
+#EXTINF:-1 tvg-id="BabyTV.pe" tvg-logo="http://s0lc.net:8080/images/inf_babytv.png" group-title="Kids", K | Baby TV Latino
 http://45.186.254.75:8000/play/a0gu/index.m3u8
 
-#EXTINF:-1 tvg-id="PlimPlim.uy" tvg-logo="https://i.imgur.com/m8gEHtQ.png" group-title="Kids", K | Plim Plim
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/m8gEHtQ.png" group-title="Kids", K | Plim Plim
 https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="Kids", K | Tooncast Latino
 https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
-
-#EXTINF:-1 tvg-id="K | El Reino Infantil" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" group-title="Kids", K | El Reino Infantil
-https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
 
 #EXTINF:-1 tvg-id="AnimalPlanet.pe" tvg-logo="https://i.imgur.com/aIKvTRb.png" group-title="Cultural", C | Animal Planet
 http://45.186.254.75:8000/play/a06y/index.m3u8
@@ -372,7 +363,7 @@ http://45.186.254.75:8000/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.pe" tvg-logo="https://i.imgur.com/bqU227K.png" group-title="Cultural", C | DW Spanish
 https://cablered.iptvperu.tv:1936/cablered/dw_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="History2.pe" tvg-logo="https://i.imgur.com/D0CWtiN.png" group-title="Cultural", C | History 2
+#EXTINF:-1 tvg-id="History2.ar" tvg-logo="https://i.imgur.com/D0CWtiN.png" group-title="Cultural", C | History 2
 http://45.186.254.75:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-id="History.pe" tvg-logo="https://i.imgur.com/lJkipAf.png" group-title="Cultural", C | History Channel
@@ -390,13 +381,13 @@ http://45.186.254.75:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="https://i.imgur.com/e2jhQ6d.png" group-title="Novelas", NOV | Pasiones
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TNTNovelas.cl" tvg-logo="https://i.imgur.com/sVni9Ub.png" group-title="Novelas", NOV | TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas.cl" tvg-logo="https://i.imgur.com/sVni9Ub.png" group-title="Novelas", NOV | TNT Novelas
 https://cablered.iptvperu.tv:1936/cablered/tntnovelas.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternacional.pe" tvg-logo="https://i.imgur.com/W0ejlM3.png" group-title="Noticias", NT | CNN International
+#EXTINF:-1 tvg-id="CNN Int HD.cl" tvg-logo="https://i.imgur.com/W0ejlM3.png" group-title="Noticias", NT | CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNenEspañol.pe" tvg-logo="https://i.imgur.com/XTmxd1m.png" group-title="Noticias", NT | CNN Spanish
+#EXTINF:-1 tvg-id="Cnn Esp HD.cl" tvg-logo="https://i.imgur.com/XTmxd1m.png" group-title="Noticias", NT | CNN Spanish
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24.pe" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="Noticias", NT | France 24 Spanish
