@@ -63,10 +63,10 @@ http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="(021) Nativa TV Peru" tvg-logo="https://i.imgur.com/v4qwCqK.png" group-title="Perú", (021) Nativa TV Peru
 http://187.102.210.46/NATIVATV/index.m3u8
 
-#EXTINF:-1 tvg-id="(023) TVLibertad Peru" tvg-logo="https://i.imgur.com/JtYHENU.png" group-title="Perú", (023) TVLibertad Peru
+#EXTINF:-1 tvg-id="(022) TVLibertad Peru" tvg-logo="https://i.imgur.com/JtYHENU.png" group-title="Perú", (022) TVLibertad Peru
 https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(024) Trivu Peru" tvg-logo="https://i.imgur.com/AYHTpEN.png" group-title="Perú", (024) Trivu Peru
+#EXTINF:-1 tvg-id="(023) Trivu Peru" tvg-logo="https://i.imgur.com/AYHTpEN.png" group-title="Perú", (023) Trivu Peru
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega.png" group-title="Chile", CL | Mega HD
